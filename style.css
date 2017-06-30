@@ -1,0 +1,25 @@
+#app {
+	display: block;
+	height: 80vh;
+	width: 80vw;
+	margin: 10vh auto;
+	text-align: center;
+}
+
+span {
+	display: block;
+	width: 100%;
+	padding: 2em 0;
+	text-transform: uppercase;
+}
+
+button {
+	text-transform: uppercase;
+	padding: 5px;
+	background-color: #CCC;
+	margin: 0 5px;
+}
+
+.counter {
+	font-size: 2em;
+}
